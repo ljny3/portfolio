@@ -26,3 +26,7 @@
 * 活動のカスタム設定: 自由に活動や時間を追加・変更できる機能
 * チャレンジ機能: 新しい活動や習慣を始めるための目標設定と蓄積機能
 * シェア機能: 自分の時間の使い方を他のユーザーと共有し、他のユーザーの時間の使い方を見る機能
+
+
+### 画面遷移図
+https://www.figma.com/file/iMYomDvUW4alGvSBE1QoPz/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA_%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=whiteboard&node-id=0%3A1&t=sfWVUVmQqanxNo3o-1
